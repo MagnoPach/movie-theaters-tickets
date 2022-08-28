@@ -12,7 +12,7 @@ module.exports = {
     theme: {
       fontFamily: {
         Nunito: ['Nunito', 'sans-serif'],
-        Norms: ['TT Norms Pro', 'sans-serif'],
+        // Norms: ['TT Norms Pro', 'sans-serif'],
         Roboto: ['Roboto', 'sans-serif'],
       },
       boxShadow: {
